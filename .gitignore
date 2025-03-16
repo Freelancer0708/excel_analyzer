@@ -3,4 +3,5 @@ assets/
 build/
 data/
 dist/
+main.spec
 credentials.json

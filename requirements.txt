@@ -1,0 +1,6 @@
+pandas
+matplotlib
+seaborn
+openpyxl
+tkinter  # Python標準ライブラリだが明示的に記載
+pyinstaller  # EXE化するため

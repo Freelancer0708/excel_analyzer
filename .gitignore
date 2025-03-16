@@ -1,0 +1,6 @@
+__pycache__/
+assets/
+build/
+data/
+dist/
+credentials.json
